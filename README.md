@@ -5,6 +5,7 @@
 
 1. Open and run the getDIG.m: select the processes that have causal influence on the 
 target process. A sample dataset, test_data is prepared for the test.
+
    1.1 The getDIG.m calls two Matlab files in sequence: getDIgraph.m and datafit.m. For the 
 detailed description of the files, please refer to the code comments.
 
