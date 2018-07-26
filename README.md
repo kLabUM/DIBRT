@@ -1,7 +1,7 @@
 ## DIBRT Version 1.0
 
 ### A data-driven approach using Directed Information and Boosted Regression Trees. 
-### By Yao Hu, Don Scavia and Branko Kerkez. 
+*By Yao Hu, Don Scavia and Branko Kerkez* 
 
 1. Open and run the getDIG.m: select the processes that have causal influence on the 
 target process. A sample dataset, test_data is prepared for the test.
