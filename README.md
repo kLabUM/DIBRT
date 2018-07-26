@@ -10,7 +10,7 @@ target process. A sample dataset, *test_data.csv* is prepared for the test.
 detailed description of the files, please refer to the code comments.
 
 2. Once the influential processes are selected, open the *getRegression.m* and put their indices 
-in the variable, nodes_relevant in dictionary format. For example, when nodes_relevant = {'1:2,8,6'},
+in the variable, *nodes_relevant* in dictionary format. For example, when *nodes_relevant = {'1:2,8,6'}*,
 **1** indicates the target process, and **2**, **8** and **6** indicate the indices of the influential processes.
 
    2.1 The amount of data for training and validation can be adjusted via the variable, *trlen*. In our case,
